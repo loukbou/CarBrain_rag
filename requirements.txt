@@ -1,55 +1,39 @@
 # Core dependencies
 fastapi==0.109.1
-uvicorn==0.27.0
-python-dotenv==1.0.0
 pydantic==2.6.1
 pydantic-settings==2.2.1
+uvicorn==0.27.0
 
 # Document processing
 unstructured[local-inference,pdf]==0.12.2
-unstructured-inference==0.7.23
 pdf2image==1.17.0
-pypdf==3.17.4
-pdfminer.six==20221105
+python-docx==0.8.11
 python-pptx==0.6.23
+pandas==2.1.4
 openpyxl==3.1.2
-xlrd==2.0.1
-docx2txt==0.8
-Pillow==10.1.0
-pdfplumber==0.10.3
-
-# Additional dependencies for unstructured
-transformers>=4.21.0
-torch>=1.12.0
-torchvision>=0.13.0
-
 
 # OCR support
 pytesseract==0.3.10
-opencv-python==4.9.0.80
+Pillow==10.1.0
 
-# Vector database
-qdrant-client==1.7.0
-redis==5.0.1
-
-# Embeddings & LLM
-openai==1.12.0
+# Vector database and embeddings
+faiss-cpu==1.7.4
+sentence-transformers==2.2.2
 langchain==0.1.11
 langchain-community==0.0.25
 langchain-openai==0.0.5
-sentence-transformers==2.2.2
+huggingface-hub==0.20.3
 
-# Machine Learning support
-scikit-learn>=1.0.0
+# Text processing
+tiktoken==0.5.2
+
+# Web requests
+requests==2.31.0
+urllib3==2.1.0
+
+# Frontend
+streamlit==1.31.0
 
 # Utilities
-tqdm==4.66.1
 numpy==1.26.3
-pandas==2.1.4
-scipy==1.11.4
-beautifulsoup4==4.12.2
-html2text==2020.1.16
-
-# Optional for table extraction
-camelot-py==0.11.0
-tabula-py==2.8.0
+matplotlib==3.8.2

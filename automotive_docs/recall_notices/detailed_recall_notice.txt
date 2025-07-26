@@ -1,0 +1,38 @@
+NHTSA RECALL CAMPAIGN: 23V-456
+======================================
+RECALL DATE: July 15, 2023
+NHTSA CAMPAIGN NUMBER: 23V-456
+MANUFACTURER: Toyota Motor Corporation
+SUBJECT: Fuel Pump Failure Risk
+AFFECTED VEHICLES:
+- Make: Toyota
+- Model: Camry, Avalon, RAV4
+- Years: 2018-2020
+- Estimated Units: 1,245,000
+COMPONENT: Low-pressure fuel pump
+SUPPLIER: Denso Corporation
+DEFECT DESCRIPTION:
+The low-pressure fuel pump may become non-operational due to impeller deformation.
+This can result in the engine stalling while driving, increasing crash risk.
+SAFETY RISK:
+Engine stalling while driving can increase the risk of a crash.
+REMEDY:
+Dealers will inspect and replace the fuel pump if necessary, free of charge.
+Estimated repair time: 2-3 hours
+MANUFACTURER REMEDY PROGRAM:
+- Notification letters mailed: August 1, 2023
+- Dealer repair program begins: August 15, 2023
+- Parts availability: 95% by September 1, 2023
+CONSUMER ACTIONS:
+1. Contact your Toyota dealer immediately
+2. Schedule service appointment
+3. For questions: 1-800-331-4331 (Toyota Customer Relations)
+4. NHTSA Hotline: 1-888-327-4236
+CHRONOLOGY:
+- March 2023: First customer complaints received
+- May 2023: Engineering investigation initiated  
+- June 2023: Root cause identified
+- July 2023: Recall decision made
+RELATED RECALLS:
+- 22V-789: Similar fuel pump issue in 2017 models
+- 21V-234: Fuel tank issues in related vehicles

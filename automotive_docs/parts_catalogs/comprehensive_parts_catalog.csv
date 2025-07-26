@@ -1,0 +1,11 @@
+part_number,description,vehicle_make,vehicle_model,year_start,year_end,price,category,compatibility_notes,stock_level
+BP001,Premium Brake Pad Set,Toyota,Camry,2018,2022,89.99,Brake System,Front axle only - ceramic compound,45
+BP002,Economy Brake Pad Set,Honda,Civic,2019,2023,75.50,Brake System,Rear axle - semi-metallic,32
+OF001,OEM Oil Filter,Toyota,Camry,2015,2022,12.99,Engine,All 2.5L 4-cylinder engines,120
+OF002,Performance Oil Filter,Honda,Civic,2016,2023,11.50,Engine,1.5L turbo engine only,87
+AF001,High Flow Air Filter,Toyota,Camry,2018,2022,24.99,Engine,2.5L engine - washable,28
+AF002,Cold Air Intake Filter,Honda,Civic,2019,2023,19.99,Engine,1.5L turbo performance upgrade,15
+SP001,Iridium Spark Plug Set,Toyota,Camry,2015,2022,45.99,Ignition,4-cylinder - 100k mile life,65
+SP002,Copper Core Spark Plugs,Honda,Civic,2016,2023,38.50,Ignition,Turbo engine - performance grade,42
+WP001,Water Pump Assembly,Toyota,Camry,2018,2020,156.99,Cooling System,Includes gasket kit,8
+TP001,Timing Belt Kit,Honda,Civic,2016,2019,89.50,Engine,Includes tensioner and idler,12

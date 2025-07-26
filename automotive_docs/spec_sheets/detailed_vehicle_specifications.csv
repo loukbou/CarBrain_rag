@@ -1,0 +1,9 @@
+vehicle_id,make,model,year,trim_level,engine_displacement,engine_type,horsepower,torque,mpg_city,mpg_highway,mpg_combined,transmission_type,transmission_speeds,drivetrain,fuel_type,fuel_capacity,weight_lbs,length_in,width_in,height_in,wheelbase_in,ground_clearance,cargo_volume,seating_capacity,safety_rating
+1,Toyota,Camry,2022,LE,2.5L,I4,203,184,28,39,32,Automatic,8,FWD,Regular,15.8,3340,192.9,72.4,56.9,111.2,5.7,15.1,5,5
+2,Honda,Civic,2022,Sport,1.5L,I4 Turbo,180,177,31,40,35,CVT,1,FWD,Regular,12.4,2906,184.0,70.9,55.7,107.7,5.1,14.8,5,5
+3,Ford,F-150,2022,XLT,3.5L,V6 Turbo,400,500,20,26,22,Automatic,10,4WD,Regular,36.0,4021,231.9,79.9,75.5,145.4,8.9,52.8,6,4
+4,Chevrolet,Silverado,2022,LT,5.3L,V8,355,383,16,22,18,Automatic,8,4WD,Regular,24.0,4520,231.7,81.2,75.6,147.4,8.9,71.7,6,5
+5,Nissan,Altima,2022,SV,2.5L,I4,188,180,28,39,32,CVT,1,FWD,Regular,16.2,3208,192.9,72.9,56.9,111.2,4.9,15.4,5,5
+6,Hyundai,Sonata,2022,SEL,2.5L,I4,191,181,27,37,31,Automatic,8,FWD,Regular,15.9,3120,193.1,73.2,57.9,111.8,5.8,16.0,5,5
+7,Mazda,CX-5,2022,Touring,2.5L,I4,187,186,25,31,27,Automatic,6,AWD,Regular,15.3,3434,179.1,72.5,65.3,106.2,8.6,30.9,5,5
+8,Subaru,Outback,2022,Premium,2.5L,H4,182,176,26,33,29,CVT,1,AWD,Regular,18.5,3634,191.3,73.0,66.1,108.1,8.7,32.5,5,5

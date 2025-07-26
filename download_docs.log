@@ -1,0 +1,225 @@
+2025-07-25 11:58:18,670 - INFO - 
+=== Downloading MANUALS documents ===
+2025-07-25 11:58:18,670 - INFO - Downloading: toyota_camry_2020_manual.pdf from https://www.toyota.com/t3Portal/document/om-s/OM06040U/pdf/OM06040U.pdf
+2025-07-25 11:58:20,301 - ERROR - Failed to download toyota_camry_2020_manual.pdf: 404 Client Error: Not Found for url: https://www.toyota.com/t3portal/document/om-s/om06040u/pdf/om06040u.pdf/
+2025-07-25 11:58:22,303 - INFO - Downloading: honda_civic_2019_manual.pdf from https://www.honda.com/owners/manuals-and-guides/2019/civic/pdf/19_civic_owners_manual.pdf
+2025-07-25 11:58:22,882 - ERROR - Failed to download honda_civic_2019_manual.pdf: 403 Client Error: Forbidden for url: https://www.honda.com/owners/manuals-and-guides/2019/civic/pdf/19_civic_owners_manual.pdf
+2025-07-25 11:58:24,883 - INFO - Downloading: nhtsa_vehicle_testing_procedures.pdf from https://www.nhtsa.gov/sites/nhtsa.gov/files/documents/812445_vehicletestingprocedures.pdf
+2025-07-25 11:58:55,334 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='www.nhtsa.gov', port=443): Read timed out. (read timeout=30)")': /sites/nhtsa.gov/files/documents/812445_vehicletestingprocedures.pdf
+2025-07-25 11:59:27,656 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='www.nhtsa.gov', port=443): Read timed out. (read timeout=30)")': /sites/nhtsa.gov/files/documents/812445_vehicletestingprocedures.pdf
+2025-07-25 12:00:01,999 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='www.nhtsa.gov', port=443): Read timed out. (read timeout=30)")': /sites/nhtsa.gov/files/documents/812445_vehicletestingprocedures.pdf
+2025-07-25 12:00:32,320 - ERROR - Failed to download nhtsa_vehicle_testing_procedures.pdf: HTTPSConnectionPool(host='www.nhtsa.gov', port=443): Max retries exceeded with url: /sites/nhtsa.gov/files/documents/812445_vehicletestingprocedures.pdf (Caused by ReadTimeoutError("HTTPSConnectionPool(host='www.nhtsa.gov', port=443): Read timed out. (read timeout=30)"))
+2025-07-25 12:00:34,321 - INFO - Downloading: epa_vehicle_emissions_guide.pdf from https://www.epa.gov/sites/default/files/2016-12/documents/420b16074.pdf
+2025-07-25 12:00:35,057 - ERROR - Failed to download epa_vehicle_emissions_guide.pdf: 403 Client Error: Forbidden for url: https://www.epa.gov/sites/default/files/2016-12/documents/420b16074.pdf
+2025-07-25 12:00:37,059 - INFO - 
+=== Downloading SPECS documents ===
+2025-07-25 12:00:37,060 - INFO - Downloading: automotive_mpg_specs.csv from https://raw.githubusercontent.com/datasets/automotive/main/data/auto-mpg.csv
+2025-07-25 12:00:37,619 - ERROR - Failed to download automotive_mpg_specs.csv: 404 Client Error: Not Found for url: https://raw.githubusercontent.com/datasets/automotive/main/data/auto-mpg.csv
+2025-07-25 12:00:39,624 - INFO - Downloading: car_specifications.csv from https://people.sc.fsu.edu/~jburkardt/data/csv/cars.csv
+2025-07-25 12:00:40,824 - ERROR - Failed to download car_specifications.csv: 404 Client Error: Not Found for url: https://people.sc.fsu.edu/~jburkardt/data/csv/cars.csv
+2025-07-25 12:00:42,826 - INFO - 
+=== Downloading SERVICE documents ===
+2025-07-25 12:00:42,827 - INFO - Downloading: vehicle_service_procedures.pdf from https://www.nhtsa.gov/sites/nhtsa.gov/files/documents/812445_vehicletestingprocedures.pdf
+2025-07-25 12:01:13,146 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='www.nhtsa.gov', port=443): Read timed out. (read timeout=30)")': /sites/nhtsa.gov/files/documents/812445_vehicletestingprocedures.pdf
+2025-07-25 12:01:45,477 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='www.nhtsa.gov', port=443): Read timed out. (read timeout=30)")': /sites/nhtsa.gov/files/documents/812445_vehicletestingprocedures.pdf
+2025-07-25 12:02:19,819 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='www.nhtsa.gov', port=443): Read timed out. (read timeout=30)")': /sites/nhtsa.gov/files/documents/812445_vehicletestingprocedures.pdf
+2025-07-25 12:02:50,134 - ERROR - Failed to download vehicle_service_procedures.pdf: HTTPSConnectionPool(host='www.nhtsa.gov', port=443): Max retries exceeded with url: /sites/nhtsa.gov/files/documents/812445_vehicletestingprocedures.pdf (Caused by ReadTimeoutError("HTTPSConnectionPool(host='www.nhtsa.gov', port=443): Read timed out. (read timeout=30)"))
+2025-07-25 12:02:52,136 - INFO - Downloading: insurance_service_bulletin.pdf from https://www.iihs.org/media/259a5bbd-f212-42eb-b9a3-3add1949329a/2074706429/Research/HLDI%20bulletins/HLDI-Bulletin-Vol-38-No-17.pdf
+2025-07-25 12:02:53,093 - ERROR - Failed to download insurance_service_bulletin.pdf: 404 Client Error: Not Found for url: https://www.iihs.org/media/259a5bbd-f212-42eb-b9a3-3add1949329a/2074706429/Research/HLDI%20bulletins/HLDI-Bulletin-Vol-38-No-17.pdf
+2025-07-25 12:02:55,094 - INFO - 
+=== Downloading PARTS documents ===
+2025-07-25 12:02:55,095 - INFO - Downloading: automotive_insurance_data.csv from https://raw.githubusercontent.com/fivethirtyeight/data/master/bad-drivers/bad-drivers.csv
+2025-07-25 12:02:55,517 - INFO - Successfully downloaded: automotive_insurance_data.csv
+2025-07-25 12:02:57,519 - INFO - 
+=== Downloading RECALLS documents ===
+2025-07-25 12:02:57,520 - INFO - Downloading: nhtsa_recalls_explained.pdf from https://www.nhtsa.gov/sites/nhtsa.gov/files/documents/defects_and_recalls_explained.pdf
+2025-07-25 12:03:27,843 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='www.nhtsa.gov', port=443): Read timed out. (read timeout=30)")': /sites/nhtsa.gov/files/documents/defects_and_recalls_explained.pdf
+2025-07-25 12:04:00,177 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='www.nhtsa.gov', port=443): Read timed out. (read timeout=30)")': /sites/nhtsa.gov/files/documents/defects_and_recalls_explained.pdf
+2025-07-25 12:04:34,512 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='www.nhtsa.gov', port=443): Read timed out. (read timeout=30)")': /sites/nhtsa.gov/files/documents/defects_and_recalls_explained.pdf
+2025-07-25 12:05:04,902 - ERROR - Failed to download nhtsa_recalls_explained.pdf: HTTPSConnectionPool(host='www.nhtsa.gov', port=443): Max retries exceeded with url: /sites/nhtsa.gov/files/documents/defects_and_recalls_explained.pdf (Caused by ReadTimeoutError("HTTPSConnectionPool(host='www.nhtsa.gov', port=443): Read timed out. (read timeout=30)"))
+2025-07-25 12:05:06,904 - INFO - Downloading: sample_recall_notice_2023.pdf from https://static.nhtsa.gov/odi/rcl/2023/RCRIT-23V123-1686.pdf
+2025-07-25 12:05:20,292 - ERROR - Failed to download sample_recall_notice_2023.pdf: 404 Client Error: Not Found for url: https://static.nhtsa.gov/odi/rcl/2023/RCRIT-23V123-1686.pdf
+2025-07-25 12:05:22,297 - INFO - Created sample documents
+2025-07-25 12:05:22,297 - INFO - 
+=== Download Summary ===
+2025-07-25 12:05:22,297 - INFO - Successfully downloaded: 1 files
+2025-07-25 12:05:22,297 - INFO - Failed downloads: 10 files
+2025-07-25 12:05:22,298 - INFO - Documents saved to: /home/bouchra/Documents/chatbot_rag/automotive_docs
+2025-07-25 12:05:22,298 - INFO - 
+=== Downloaded Files ===
+2025-07-25 12:05:22,298 - INFO - 
+MANUALS: No files
+2025-07-25 12:05:22,298 - INFO - 
+SPECS:
+2025-07-25 12:05:22,299 - INFO -   - vehicle_specifications.csv (0.00 MB)
+2025-07-25 12:05:22,299 - INFO - 
+SERVICE: No files
+2025-07-25 12:05:22,299 - INFO - 
+PARTS:
+2025-07-25 12:05:22,299 - INFO -   - automotive_insurance_data.csv (0.00 MB)
+2025-07-25 12:05:22,299 - INFO -   - sample_parts_catalog.csv (0.00 MB)
+2025-07-25 12:05:22,299 - INFO - 
+RECALLS:
+2025-07-25 12:05:22,300 - INFO -   - sample_recall_notice.txt (0.00 MB)
+2025-07-25 12:05:22,300 - INFO - 
+=== Verifying Downloads ===
+2025-07-25 12:05:22,300 - INFO - ✓ Valid: vehicle_specifications.csv
+2025-07-25 12:05:22,302 - INFO - ✓ Valid: automotive_insurance_data.csv
+2025-07-25 12:05:22,303 - INFO - ✓ Valid: sample_parts_catalog.csv
+2025-07-25 12:05:22,303 - INFO - ✓ Valid: sample_recall_notice.txt
+2025-07-25 12:47:52,524 - INFO - 
+=== Downloading MANUALS documents ===
+2025-07-25 12:47:52,524 - ERROR - ❌ Unexpected error: 'DocumentDownloader' object has no attribute 'download_file'
+2025-07-25 12:54:36,472 - INFO - 
+=== Downloading MANUALS documents ===
+2025-07-25 12:54:36,472 - INFO - Downloading: automotive_safety_data.csv from https://raw.githubusercontent.com/fivethirtyeight/data/master/bad-drivers/bad-drivers.csv
+2025-07-25 12:54:36,990 - INFO - Successfully downloaded: automotive_safety_data.csv
+2025-07-25 12:54:37,991 - INFO - Downloading: corgis_cars_dataset.csv from https://raw.githubusercontent.com/corgis-edu/corgis/master/datasets/csv/cars/cars.csv
+2025-07-25 12:54:38,196 - ERROR - Failed to download corgis_cars_dataset.csv: 404 Client Error: Not Found for url: https://raw.githubusercontent.com/corgis-edu/corgis/master/datasets/csv/cars/cars.csv
+2025-07-25 12:54:38,197 - INFO - Retrying corgis_cars_dataset.csv with different user agent
+2025-07-25 12:54:38,197 - INFO - Downloading: corgis_cars_dataset.csv from https://raw.githubusercontent.com/corgis-edu/corgis/master/datasets/csv/cars/cars.csv
+2025-07-25 12:54:38,433 - ERROR - Failed to download corgis_cars_dataset.csv: 404 Client Error: Not Found for url: https://raw.githubusercontent.com/corgis-edu/corgis/master/datasets/csv/cars/cars.csv
+2025-07-25 12:54:38,434 - INFO - Retrying corgis_cars_dataset.csv with different user agent
+2025-07-25 12:54:38,434 - INFO - Downloading: corgis_cars_dataset.csv from https://raw.githubusercontent.com/corgis-edu/corgis/master/datasets/csv/cars/cars.csv
+2025-07-25 12:54:38,758 - ERROR - Failed to download corgis_cars_dataset.csv: 404 Client Error: Not Found for url: https://raw.githubusercontent.com/corgis-edu/corgis/master/datasets/csv/cars/cars.csv
+2025-07-25 12:54:38,759 - INFO - Retrying corgis_cars_dataset.csv with different user agent
+2025-07-25 12:54:38,759 - INFO - Downloading: corgis_cars_dataset.csv from https://raw.githubusercontent.com/corgis-edu/corgis/master/datasets/csv/cars/cars.csv
+2025-07-25 12:54:38,978 - ERROR - Failed to download corgis_cars_dataset.csv: 404 Client Error: Not Found for url: https://raw.githubusercontent.com/corgis-edu/corgis/master/datasets/csv/cars/cars.csv
+2025-07-25 12:54:38,979 - WARNING - All download attempts failed for corgis_cars_dataset.csv
+2025-07-25 12:54:39,979 - INFO - Downloading: car_sales_data.csv from https://raw.githubusercontent.com/chandanverma07/DataSets/master/Car_sales.csv
+2025-07-25 12:54:40,446 - INFO - Successfully downloaded: car_sales_data.csv
+2025-07-25 12:54:41,447 - INFO - 
+=== Downloading SPECS documents ===
+2025-07-25 12:54:41,448 - INFO - Downloading: auto_specifications.csv from https://raw.githubusercontent.com/selva86/datasets/master/Auto.csv
+2025-07-25 12:54:41,615 - INFO - 
+⚠️ Download interrupted by user
+2025-07-25 12:54:42,106 - INFO - 
+=== Downloading MANUALS documents ===
+2025-07-25 12:54:42,106 - INFO - Downloading: automotive_safety_data.csv from https://raw.githubusercontent.com/fivethirtyeight/data/master/bad-drivers/bad-drivers.csv
+2025-07-25 12:54:42,439 - INFO - Successfully downloaded: automotive_safety_data.csv
+2025-07-25 12:54:43,441 - INFO - Downloading: corgis_cars_dataset.csv from https://raw.githubusercontent.com/corgis-edu/corgis/master/datasets/csv/cars/cars.csv
+2025-07-25 12:54:43,476 - ERROR - Failed to download corgis_cars_dataset.csv: 404 Client Error: Not Found for url: https://raw.githubusercontent.com/corgis-edu/corgis/master/datasets/csv/cars/cars.csv
+2025-07-25 12:54:43,478 - INFO - Retrying corgis_cars_dataset.csv with different user agent
+2025-07-25 12:54:43,479 - INFO - Downloading: corgis_cars_dataset.csv from https://raw.githubusercontent.com/corgis-edu/corgis/master/datasets/csv/cars/cars.csv
+2025-07-25 12:54:43,707 - ERROR - Failed to download corgis_cars_dataset.csv: 404 Client Error: Not Found for url: https://raw.githubusercontent.com/corgis-edu/corgis/master/datasets/csv/cars/cars.csv
+2025-07-25 12:54:43,708 - INFO - Retrying corgis_cars_dataset.csv with different user agent
+2025-07-25 12:54:43,708 - INFO - Downloading: corgis_cars_dataset.csv from https://raw.githubusercontent.com/corgis-edu/corgis/master/datasets/csv/cars/cars.csv
+2025-07-25 12:54:43,959 - ERROR - Failed to download corgis_cars_dataset.csv: 404 Client Error: Not Found for url: https://raw.githubusercontent.com/corgis-edu/corgis/master/datasets/csv/cars/cars.csv
+2025-07-25 12:54:43,959 - INFO - Retrying corgis_cars_dataset.csv with different user agent
+2025-07-25 12:54:43,959 - INFO - Downloading: corgis_cars_dataset.csv from https://raw.githubusercontent.com/corgis-edu/corgis/master/datasets/csv/cars/cars.csv
+2025-07-25 12:54:44,184 - ERROR - Failed to download corgis_cars_dataset.csv: 404 Client Error: Not Found for url: https://raw.githubusercontent.com/corgis-edu/corgis/master/datasets/csv/cars/cars.csv
+2025-07-25 12:54:44,184 - WARNING - All download attempts failed for corgis_cars_dataset.csv
+2025-07-25 12:54:45,184 - INFO - Downloading: car_sales_data.csv from https://raw.githubusercontent.com/chandanverma07/DataSets/master/Car_sales.csv
+2025-07-25 12:54:45,524 - INFO - Successfully downloaded: car_sales_data.csv
+2025-07-25 12:54:46,525 - INFO - 
+=== Downloading SPECS documents ===
+2025-07-25 12:54:46,526 - INFO - Downloading: auto_specifications.csv from https://raw.githubusercontent.com/selva86/datasets/master/Auto.csv
+2025-07-25 12:54:46,717 - INFO - Successfully downloaded: auto_specifications.csv
+2025-07-25 12:54:47,718 - INFO - Downloading: uci_automobile_dataset.data from https://archive.ics.uci.edu/ml/machine-learning-databases/autos/imports-85.data
+2025-07-25 12:54:48,868 - INFO - Successfully downloaded: uci_automobile_dataset.data
+2025-07-25 12:54:49,869 - INFO - Downloading: plotly_auto_mpg.csv from https://raw.githubusercontent.com/plotly/datasets/master/auto-mpg.csv
+2025-07-25 12:54:50,077 - INFO - Successfully downloaded: plotly_auto_mpg.csv
+2025-07-25 12:54:51,078 - INFO - Downloading: mpg_dataset.csv from https://gist.githubusercontent.com/curran/a08a1080b88344b0c8a7/raw/0e7a9b0a5d22642a06d3d5b9bcbad9890c8ee534/auto-mpg.csv
+2025-07-25 12:54:51,542 - ERROR - Failed to download mpg_dataset.csv: 404 Client Error: Not Found for url: https://gist.githubusercontent.com/curran/a08a1080b88344b0c8a7/raw/0e7a9b0a5d22642a06d3d5b9bcbad9890c8ee534/auto-mpg.csv
+2025-07-25 12:54:51,543 - INFO - Retrying mpg_dataset.csv with different user agent
+2025-07-25 12:54:51,543 - INFO - Downloading: mpg_dataset.csv from https://gist.githubusercontent.com/curran/a08a1080b88344b0c8a7/raw/0e7a9b0a5d22642a06d3d5b9bcbad9890c8ee534/auto-mpg.csv
+2025-07-25 12:54:51,810 - ERROR - Failed to download mpg_dataset.csv: 404 Client Error: Not Found for url: https://gist.githubusercontent.com/curran/a08a1080b88344b0c8a7/raw/0e7a9b0a5d22642a06d3d5b9bcbad9890c8ee534/auto-mpg.csv
+2025-07-25 12:54:51,811 - INFO - Retrying mpg_dataset.csv with different user agent
+2025-07-25 12:54:51,811 - INFO - Downloading: mpg_dataset.csv from https://gist.githubusercontent.com/curran/a08a1080b88344b0c8a7/raw/0e7a9b0a5d22642a06d3d5b9bcbad9890c8ee534/auto-mpg.csv
+2025-07-25 12:54:52,058 - ERROR - Failed to download mpg_dataset.csv: 404 Client Error: Not Found for url: https://gist.githubusercontent.com/curran/a08a1080b88344b0c8a7/raw/0e7a9b0a5d22642a06d3d5b9bcbad9890c8ee534/auto-mpg.csv
+2025-07-25 12:54:52,058 - INFO - Retrying mpg_dataset.csv with different user agent
+2025-07-25 12:54:52,059 - INFO - Downloading: mpg_dataset.csv from https://gist.githubusercontent.com/curran/a08a1080b88344b0c8a7/raw/0e7a9b0a5d22642a06d3d5b9bcbad9890c8ee534/auto-mpg.csv
+2025-07-25 12:54:52,414 - ERROR - Failed to download mpg_dataset.csv: 404 Client Error: Not Found for url: https://gist.githubusercontent.com/curran/a08a1080b88344b0c8a7/raw/0e7a9b0a5d22642a06d3d5b9bcbad9890c8ee534/auto-mpg.csv
+2025-07-25 12:54:52,414 - WARNING - All download attempts failed for mpg_dataset.csv
+2025-07-25 12:54:53,415 - INFO - 
+=== Downloading SERVICE documents ===
+2025-07-25 12:54:53,416 - INFO - Downloading: sample_service_manual.pdf from https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf
+2025-07-25 12:54:53,887 - INFO - Successfully downloaded: sample_service_manual.pdf
+2025-07-25 12:54:54,888 - INFO - Downloading: service_procedures_template.pdf from https://www.orimi.com/pdf-test.pdf
+2025-07-25 12:54:55,582 - INFO - Successfully downloaded: service_procedures_template.pdf
+2025-07-25 12:54:56,583 - INFO - 
+=== Downloading PARTS documents ===
+2025-07-25 12:54:56,584 - INFO - Downloading: automotive_insurance_parts_data.csv from https://raw.githubusercontent.com/fivethirtyeight/data/master/bad-drivers/bad-drivers.csv
+2025-07-25 12:54:56,624 - INFO - Successfully downloaded: automotive_insurance_parts_data.csv
+2025-07-25 12:54:57,626 - INFO - Downloading: vehicle_parts_sales.csv from https://raw.githubusercontent.com/chandanverma07/DataSets/master/Car_sales.csv
+2025-07-25 12:54:57,672 - INFO - Successfully downloaded: vehicle_parts_sales.csv
+2025-07-25 12:54:58,674 - INFO - 
+=== Downloading RECALLS documents ===
+2025-07-25 12:54:58,675 - INFO - Downloading: sample_recall_document.pdf from https://www.clickdimensions.com/links/TestPDFfile.pdf
+2025-07-25 12:54:59,244 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ProtocolError('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))': /links/TestPDFfile.pdf
+2025-07-25 12:55:01,608 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ProtocolError('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))': /links/TestPDFfile.pdf
+2025-07-25 12:55:05,949 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ProtocolError('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))': /links/TestPDFfile.pdf
+2025-07-25 12:55:06,292 - ERROR - Failed to download sample_recall_document.pdf: HTTPSConnectionPool(host='www.clickdimensions.com', port=443): Max retries exceeded with url: /links/TestPDFfile.pdf (Caused by ProtocolError('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
+2025-07-25 12:55:06,292 - INFO - Retrying sample_recall_document.pdf with different user agent
+2025-07-25 12:55:06,292 - INFO - Downloading: sample_recall_document.pdf from https://www.clickdimensions.com/links/TestPDFfile.pdf
+2025-07-25 12:55:06,675 - ERROR - Failed to download sample_recall_document.pdf: 403 Client Error: Forbidden for url: https://www.clickdimensions.com/links/TestPDFfile.pdf
+2025-07-25 12:55:06,675 - INFO - Retrying sample_recall_document.pdf with different user agent
+2025-07-25 12:55:06,676 - INFO - Downloading: sample_recall_document.pdf from https://www.clickdimensions.com/links/TestPDFfile.pdf
+2025-07-25 12:55:07,686 - INFO - Successfully downloaded: sample_recall_document.pdf
+2025-07-25 12:55:08,687 - INFO - Downloading: example_recall_notice.pdf from https://file-examples.com/storage/fe86a1d4d4640bb86170598/2017/10/file_example_PDF_500_kB.pdf
+2025-07-25 12:55:09,040 - ERROR - Failed to download example_recall_notice.pdf: 403 Client Error: Forbidden for url: https://file-examples.com/storage/fe86a1d4d4640bb86170598/2017/10/file_example_PDF_500_kB.pdf
+2025-07-25 12:55:09,040 - INFO - Retrying example_recall_notice.pdf with different user agent
+2025-07-25 12:55:09,040 - INFO - Downloading: example_recall_notice.pdf from https://file-examples.com/storage/fe86a1d4d4640bb86170598/2017/10/file_example_PDF_500_kB.pdf
+2025-07-25 12:55:09,277 - ERROR - Failed to download example_recall_notice.pdf: 403 Client Error: Forbidden for url: https://file-examples.com/storage/fe86a1d4d4640bb86170598/2017/10/file_example_PDF_500_kB.pdf
+2025-07-25 12:55:09,277 - INFO - Retrying example_recall_notice.pdf with different user agent
+2025-07-25 12:55:09,277 - INFO - Downloading: example_recall_notice.pdf from https://file-examples.com/storage/fe86a1d4d4640bb86170598/2017/10/file_example_PDF_500_kB.pdf
+2025-07-25 12:55:09,510 - ERROR - Failed to download example_recall_notice.pdf: 403 Client Error: Forbidden for url: https://file-examples.com/storage/fe86a1d4d4640bb86170598/2017/10/file_example_PDF_500_kB.pdf
+2025-07-25 12:55:09,510 - INFO - Retrying example_recall_notice.pdf with different user agent
+2025-07-25 12:55:09,511 - INFO - Downloading: example_recall_notice.pdf from https://file-examples.com/storage/fe86a1d4d4640bb86170598/2017/10/file_example_PDF_500_kB.pdf
+2025-07-25 12:55:09,744 - ERROR - Failed to download example_recall_notice.pdf: 403 Client Error: Forbidden for url: https://file-examples.com/storage/fe86a1d4d4640bb86170598/2017/10/file_example_PDF_500_kB.pdf
+2025-07-25 12:55:09,745 - WARNING - All download attempts failed for example_recall_notice.pdf
+2025-07-25 12:55:10,746 - INFO - ✅ Created comprehensive sample documents for all categories
+2025-07-25 12:55:10,746 - INFO - 
+=== Download Summary ===
+2025-07-25 12:55:10,747 - INFO - Successfully downloaded: 10 files
+2025-07-25 12:55:10,747 - INFO - Failed downloads: 3 files
+2025-07-25 12:55:10,747 - INFO - Documents saved to: /home/bouchra/Documents/chatbot_rag/automotive_docs
+2025-07-25 12:55:10,747 - INFO - 
+=== Downloaded Files ===
+2025-07-25 12:55:10,747 - INFO - 
+MANUALS:
+2025-07-25 12:55:10,747 - INFO -   - automotive_safety_data.csv (0.00 MB)
+2025-07-25 12:55:10,747 - INFO -   - car_sales_data.csv (0.02 MB)
+2025-07-25 12:55:10,748 - INFO -   - owner_manual_excerpt.txt (0.00 MB)
+2025-07-25 12:55:10,748 - INFO - 
+SPECS:
+2025-07-25 12:55:10,748 - INFO -   - detailed_vehicle_specifications.csv (0.00 MB)
+2025-07-25 12:55:10,748 - INFO -   - uci_automobile_dataset.data (0.02 MB)
+2025-07-25 12:55:10,748 - INFO -   - vehicle_specifications.csv (0.00 MB)
+2025-07-25 12:55:10,748 - INFO -   - plotly_auto_mpg.csv (0.01 MB)
+2025-07-25 12:55:10,748 - INFO -   - auto_specifications.csv (0.02 MB)
+2025-07-25 12:55:10,748 - INFO - 
+SERVICE:
+2025-07-25 12:55:10,749 - INFO -   - service_procedures_template.pdf (0.02 MB)
+2025-07-25 12:55:10,749 - INFO -   - automotive_service_manual.txt (0.00 MB)
+2025-07-25 12:55:10,749 - INFO -   - sample_service_manual.pdf (0.01 MB)
+2025-07-25 12:55:10,749 - INFO - 
+PARTS:
+2025-07-25 12:55:10,749 - INFO -   - comprehensive_parts_catalog.csv (0.00 MB)
+2025-07-25 12:55:10,749 - INFO -   - vehicle_parts_sales.csv (0.02 MB)
+2025-07-25 12:55:10,749 - INFO -   - automotive_insurance_parts_data.csv (0.00 MB)
+2025-07-25 12:55:10,749 - INFO - 
+RECALLS:
+2025-07-25 12:55:10,749 - INFO -   - sample_recall_document.pdf (0.15 MB)
+2025-07-25 12:55:10,749 - INFO -   - detailed_recall_notice.txt (0.00 MB)
+2025-07-25 12:55:10,750 - INFO -   - sample_recall_notice.txt (0.00 MB)
+2025-07-25 12:55:10,750 - INFO - 
+=== Verifying Downloads ===
+2025-07-25 12:55:10,750 - INFO - ✓ Valid: automotive_safety_data.csv
+2025-07-25 12:55:10,750 - INFO - ✓ Valid: car_sales_data.csv
+2025-07-25 12:55:10,750 - INFO - ✓ Valid: owner_manual_excerpt.txt
+2025-07-25 12:55:10,750 - INFO - ✓ Valid: detailed_vehicle_specifications.csv
+2025-07-25 12:55:10,750 - INFO - ✓ Valid: uci_automobile_dataset.data
+2025-07-25 12:55:10,751 - INFO - ✓ Valid: vehicle_specifications.csv
+2025-07-25 12:55:10,751 - INFO - ✓ Valid: plotly_auto_mpg.csv
+2025-07-25 12:55:10,751 - INFO - ✓ Valid: auto_specifications.csv
+2025-07-25 12:55:10,751 - INFO - ✓ Valid: service_procedures_template.pdf
+2025-07-25 12:55:10,751 - INFO - ✓ Valid: automotive_service_manual.txt
+2025-07-25 12:55:10,751 - INFO - ✓ Valid: sample_service_manual.pdf
+2025-07-25 12:55:10,752 - INFO - ✓ Valid: comprehensive_parts_catalog.csv
+2025-07-25 12:55:10,752 - INFO - ✓ Valid: vehicle_parts_sales.csv
+2025-07-25 12:55:10,752 - INFO - ✓ Valid: automotive_insurance_parts_data.csv
+2025-07-25 12:55:10,752 - WARNING - Invalid PDF file: automotive_docs/recall_notices/sample_recall_document.pdf
+2025-07-25 12:55:10,752 - INFO - ✓ Valid: sample_recall_document.pdf
+2025-07-25 12:55:10,753 - INFO - ✓ Valid: detailed_recall_notice.txt
+2025-07-25 12:55:10,753 - INFO - ✓ Valid: sample_recall_notice.txt

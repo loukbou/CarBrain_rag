@@ -1,0 +1,9 @@
+This project will focus on building a production-ready RAG chatbot for the automotive domain, handling multiple document formats (PDFs, spreadsheets, manuals, etc.) with complex content like images, diagrams, tables, and technical specifications.
+
+Document Types to Include
+Type	Formats	Content Examples
+Car Manuals	PDF, DOCX	Text, diagrams, troubleshooting tables
+Spec Sheets	PDF, XLSX, CSV	Engine specs, dimensions, performance data
+Service Guides	PDF, PPTX	Repair procedures, wiring diagrams
+Parts Catalog	CSV, XLSX	Part numbers, prices, compatibility tables
+Recall Notices	PDF, HTML	Safety recalls, defect descriptions

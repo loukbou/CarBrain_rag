@@ -1,0 +1,68 @@
+AUTOMOTIVE SERVICE MANUAL
+========================
+Vehicle Systems Troubleshooting Guide
+ENGINE DIAGNOSTICS
+==================
+Common Engine Problems:
+1. Engine Won't Start
+   - Check battery voltage (12.6V minimum)
+   - Verify fuel pressure (35-45 PSI for most vehicles)
+   - Test ignition system components
+   - Scan for diagnostic trouble codes
+2. Engine Overheating
+   - Inspect coolant level and condition
+   - Check radiator for blockages
+   - Test thermostat operation (opens at 195°F)
+   - Verify water pump operation
+3. Poor Fuel Economy
+   - Clean or replace air filter
+   - Check tire pressure (proper PSI as specified)
+   - Scan for oxygen sensor codes
+   - Inspect fuel injectors
+BRAKE SYSTEM SERVICE
+===================
+Brake Pad Replacement Procedure:
+1. Safety: Vehicle on level ground, parking brake engaged
+2. Remove wheel and tire assembly
+3. Remove brake caliper (typically 2 bolts)
+4. Remove old brake pads
+5. Compress caliper piston using C-clamp
+6. Install new pads with anti-squeal compound
+7. Reinstall caliper with proper torque specification
+8. Pump brake pedal before driving
+ELECTRICAL SYSTEM
+================
+Battery Testing:
+- Load test: 12.4V minimum under load
+- Specific gravity: 1.265 for healthy battery
+- Clean terminals with baking soda solution
+Alternator Testing:
+- Engine running: 13.8-14.4V at battery
+- Load test with electrical accessories on
+- Belt tension: 1/2 inch deflection maximum
+MAINTENANCE SCHEDULES
+====================
+Every 5,000 miles:
+- Engine oil and filter change
+- Tire rotation
+- Visual inspection of belts and hoses
+Every 15,000 miles:
+- Air filter replacement
+- Cabin air filter replacement
+- Brake fluid inspection
+Every 30,000 miles:
+- Transmission fluid service
+- Coolant system flush
+- Spark plug replacement (conventional)
+TORQUE SPECIFICATIONS
+====================
+Wheel lug nuts: 80-100 ft-lbs (varies by vehicle)
+Oil drain plug: 25-30 ft-lbs
+Brake caliper bolts: 70-85 ft-lbs
+Spark plugs: 15-25 ft-lbs
+DIAGNOSTIC TROUBLE CODES
+========================
+P0171: System Too Lean (Bank 1)
+P0301: Cylinder 1 Misfire Detected
+P0420: Catalyst System Efficiency Below Threshold
+P0507: Idle Air Control System RPM Higher Than Expected

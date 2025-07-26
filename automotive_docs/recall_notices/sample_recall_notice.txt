@@ -1,0 +1,22 @@
+RECALL NOTICE - SAMPLE
+======================
+
+NHTSA Campaign Number: 23V-123
+Date: March 15, 2023
+
+Vehicle Information:
+- Make: Toyota
+- Model: Camry
+- Year: 2018-2020
+- Component: Fuel Pump
+
+Problem Description:
+The fuel pump may fail prematurely, causing the engine to stall without warning.
+This increases the risk of a crash.
+
+Remedy:
+Dealers will replace the fuel pump free of charge.
+
+Owner Actions:
+Contact your local Toyota dealer to schedule service.
+For questions, call Toyota Customer Service at 1-800-331-4331.

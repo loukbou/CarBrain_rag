@@ -1,0 +1,6 @@
+vehicle_id,make,model,year,engine_size,horsepower,mpg_city,mpg_highway,transmission,drivetrain
+1,Toyota,Camry,2022,2.5L,203,28,39,8-Speed Automatic,FWD
+2,Honda,Civic,2022,1.5L Turbo,180,31,40,CVT,FWD
+3,Ford,F-150,2022,3.5L V6 Turbo,400,20,26,10-Speed Automatic,4WD
+4,Chevrolet,Silverado,2022,5.3L V8,355,16,22,8-Speed Automatic,4WD
+5,Nissan,Altima,2022,2.5L,188,28,39,CVT,FWD

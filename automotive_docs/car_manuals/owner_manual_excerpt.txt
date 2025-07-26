@@ -1,0 +1,60 @@
+OWNER'S MANUAL EXCERPT
+=====================
+Vehicle Operation and Maintenance
+DASHBOARD WARNING LIGHTS
+========================
+🔴 ENGINE (Check Engine Light)
+- Indicates engine management system issue
+- Have vehicle diagnosed immediately
+- May cause emissions test failure
+🔴 OIL PRESSURE
+- Low engine oil pressure detected
+- STOP DRIVING IMMEDIATELY
+- Check oil level and add if needed
+- Contact service center if light remains on
+🟡 MAINTENANCE REQUIRED
+- Scheduled maintenance due
+- Typically appears every 5,000 miles
+- Reset after completing service
+🔵 COOLANT TEMPERATURE
+- Engine operating temperature too high
+- Pull over safely and turn off engine
+- Allow to cool before checking coolant
+FUEL RECOMMENDATIONS
+===================
+- Regular unleaded gasoline (87 octane minimum)
+- Fuel tank capacity: 15.8 gallons
+- Estimated range: 450+ miles
+- Use TOP TIER gasoline when available
+TIRE INFORMATION
+===============
+- Size: P215/60R16
+- Recommended pressure: 32 PSI (front/rear)
+- Check monthly when tires are cold
+- Rotate every 5,000-7,500 miles
+EMERGENCY PROCEDURES
+===================
+Engine Overheating:
+1. Turn on heater full blast
+2. Pull over safely
+3. Turn off engine
+4. Wait 30 minutes before opening hood
+5. Check coolant level when cool
+Flat Tire:
+1. Pull over to safe location
+2. Turn on hazard lights
+3. Apply parking brake
+4. Use jack and spare tire to replace
+5. Tighten lug nuts in star pattern
+Jump Starting:
+1. Position vehicles close together
+2. Connect positive to positive
+3. Connect negative to ground
+4. Start working vehicle first
+5. Attempt to start dead vehicle
+WARRANTY INFORMATION
+===================
+- Basic: 3 years/36,000 miles
+- Powertrain: 5 years/60,000 miles
+- Corrosion: 5 years/unlimited miles
+- Emissions: 8 years/80,000 miles (federal)
